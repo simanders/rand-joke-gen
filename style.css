@@ -5,7 +5,10 @@
     font-family: "Rubik",sans-serif;
 }
 body{
-    background-color: #fab22e;
+    height: 100vh;
+    background: linear-gradient(
+    #fab22e,
+    #925f00);
 }
 .wrapper{
     width: 80vmin;
